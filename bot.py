@@ -23,4 +23,4 @@ async def on_message(message):
 
 
 
-client.run('MzQxMzQ1NzE4MTM4ODMwODY4.DS4lVg.JdBPXJdBPh59371x9ho_QHPDQTc')
+client.run('Token_Placeholder')
